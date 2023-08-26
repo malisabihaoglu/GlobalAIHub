@@ -1,5 +1,5 @@
 # GlobalAIHub
-Global AI Hub, Koç Holding ve Aygaz işbirliğinde yapılan bootcamp programının projesini içerir
+Global AI Hub, Koç Holding ve Aygaz işbirliğinde gerçekleştirilen bootcamp programının projesini içerir.
 
 # TASKS
 
