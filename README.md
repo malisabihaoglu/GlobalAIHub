@@ -4,6 +4,7 @@ Global AI Hub, Koç Holding ve Aygaz işbirliğinde yapılan bootcamp programın
 # TASKS
 
 Medical Cost Analysis
+
 Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 In this project, you will be trying to develop an end-to-end data science application using the
 dataset given above. The aim of the project is to estimate the approximate cost of a person's
@@ -14,10 +15,10 @@ instructions below and make sure that the project is unique.
 ● Make sure that there are comment lines explaining the details in your project.
 ● When submitting the project, submit the cells of this .ipynb file so that the cells are
 run and the results are visible.
-2. Importing Required Libraries
+3. Importing Required Libraries
 ● Import the required libraries for the project to the Colab environment.
 ● Import Pandas, NumPy, Seaborn, Matplotlib and Sklearn libraries for data analysis
-3. Perform An Exploratory Data Analysis
+4. Perform An Exploratory Data Analysis
 ● Analyze the data and draw meaningful conclusions from the data.
 ○ Examine the distribution of Bmi (Body Mass Index)
 ○ Examine the relationship between “smoker” and “charges”
@@ -32,19 +33,19 @@ run and the results are visible.
 ● Try to use data visualization techniques as much as possible while examining the
 data.
 ● Please add the meanings you deduced from the analyzes as a comment line.
-4. Data Preprocessing
+5. Data Preprocessing
 ● In this section, prepare the data you have, for training the model.
 ● Use Label Encoding and One-Hot Encoding techniques to deal with categorical
 variables.
 ● Split your dataset into X_train,X_test, y_train, y_test.
 ● Scale the dataset by normalizing it(Min-Max Scaling or Standard Scaling).
-5. Model Selection
+6. Model Selection
 ● Select several regression models and train them with the preprocessed data.
 ● Examine the performances of the selected models using cross validation.
 ● Choose the best performing model
-6. Hyper-parameter Optimization
+7. Hyper-parameter Optimization
 ● Optimize the hyper-parameters of the model selected in the previous step.
 ● Optimize parameters with Grid Search. (Grid Search or Randomized Search)
-7. Model Evaluation
+8. Model Evaluation
 ● Evaluate the optimized model using regression model evaluation metrics. (Ex. Mean
 Squared Error, Mean Absolute Error etc.)
